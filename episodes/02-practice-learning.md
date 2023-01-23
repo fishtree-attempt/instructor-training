@@ -474,7 +474,7 @@ from learners. We will be talking in more depth about each of these strategies a
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[wikipedia-dreyfus-skill]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
+[wikipedia-dreyfus-skill]: gttps://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
 [nurses-dreyfus]: https://journals.sagepub.com/doi/10.1177/0270467604265061
 [Benner-dreyfus]: https://www.worldcat.org/search?q=au%3ABenner%2C+Patricia+E.
 [swc-shell-novice]: https://swcarpentry.github.io/shell-novice/
